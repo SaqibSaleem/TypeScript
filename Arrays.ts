@@ -6,3 +6,4 @@ let StudentArray:Array<string> = ["Saqib", "Ahmed", "Ali"];
 NamesArray.push("Bilal")
 let poppedName = NamesArray.pop();
 console.log(poppedName);
+console.log(NamesArray);
